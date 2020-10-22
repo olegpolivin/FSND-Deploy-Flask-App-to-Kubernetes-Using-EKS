@@ -16,7 +16,6 @@ _mailinglist
 .idea/
 docs/_build/
 __pycache__
-.env_file
 trust.json
 iam-role-policy.json
 
